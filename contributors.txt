@@ -1,0 +1,9 @@
+Supervisor: Massimo Sartori PHD
+Daily Supervisor1: G.V.Durandau (Researcher)
+Daily Supervisor2: H.Wang (Researcher)
+
+Codes written by:
+Praveen Kumar Pakkirisamy
+s2108305
+Systems and Control (Biomechatronics)
+University of Twente
